@@ -29,6 +29,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
 - [Django REST framework](https://www.django-rest-framework.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 - [Pillow](https://python-pillow.org/)
 - [django-cors-headers](https://pypi.org/project/django-cors-headers/)
 - [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/)
@@ -46,7 +47,7 @@ Antes de começar, você precisa ter o [Python](https://www.python.org/downloads
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Raphael120/e-diaristas
+$ git clone https://github.com/raphael-araujo/e-diaristas
 
 # Entre na pasta
 $ cd e-diaristas
